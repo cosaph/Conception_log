@@ -25,7 +25,7 @@ __cd__<répertoire_du_projet>
 
     Exécutez le code Python en utilisant la commande suivante :
 
-python reunion_time.py
+python main.py
 
     L'heure actuelle à La Réunion 🌋 sera affichée dans la sortie du terminal.
 
